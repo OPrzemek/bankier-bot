@@ -1,0 +1,24 @@
+{
+  "name": "bankier",
+  "version": "1.0.0",
+  "description": "Zarzadzanie dlugiem wobec znajomych",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPrzemek/bankier-bot.git"
+  },
+  "author": "Przemyslaw Okun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPrzemek/bankier-bot/issues"
+  },
+  "homepage": "https://github.com/OPrzemek/bankier-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.3.4"
+  }
+}
